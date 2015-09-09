@@ -1,0 +1,11 @@
+# Dziennik referencyjny
+# name 		nazwa instrumentu
+# value		wartosc stalej grawimetru
+				lub NULL jeœli zdeklarowano tablice referencyjn¹
+# Miedzy kluczem a znakiem : nie moze byc zadnych
+# dodatkowych znakow w tym bia³ych znakow
+
+@name: LCR-SG-100
+@stala: true
+@value: 58.36
+
