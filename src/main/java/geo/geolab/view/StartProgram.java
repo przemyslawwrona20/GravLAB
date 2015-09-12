@@ -1,7 +1,6 @@
 package geo.geolab.view;
 
-import com.geolab.controller.Controller;
-
+import geo.geolab.controller.Controller;
 import geo.geolab.gui.GUI;
 import geo.geolab.gui.GUIStart;
 

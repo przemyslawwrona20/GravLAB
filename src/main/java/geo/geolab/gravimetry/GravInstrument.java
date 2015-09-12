@@ -1,11 +1,11 @@
 package geo.geolab.gravimetry;
 
+import geo.geolab.controller.GravimetrController;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
-import com.geolab.controller.GravimetrController;
 
 public class GravInstrument {
 

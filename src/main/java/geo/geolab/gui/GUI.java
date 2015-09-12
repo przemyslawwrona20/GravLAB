@@ -2,6 +2,7 @@ package geo.geolab.gui;
 
 import java.awt.Color;
 
+import geo.geolab.controller.Controller;
 import geo.geolab.gui.messages.PressedGrawimetrDodajData;
 import geo.geolab.gui.messages.PressedRaportDodajData;
 import geo.geolab.view.View;
@@ -11,8 +12,6 @@ import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.swing.UnsupportedLookAndFeelException;
-
-import com.geolab.controller.Controller;
 
 @SuppressWarnings("serial")
 public class GUI extends JFrame implements View {

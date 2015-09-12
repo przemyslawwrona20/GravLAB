@@ -1,4 +1,4 @@
-package com.geolab.controller;
+package geo.geolab.controller;
 
 import java.io.*;
 import java.util.*;
