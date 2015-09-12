@@ -1,5 +1,6 @@
 package geo.geolab.gui;
 
+import geo.geolab.comunicat.RaportComunicat;
 import geo.geolab.controller.DziennikController;
 import geo.geolab.controller.GravimetrController;
 import geo.geolab.gui.messages.PressedRaportDodajData;
@@ -14,8 +15,6 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 
 import javax.swing.*;
-
-import com.geolab.comunicat.RaportComunicat;
 
 @SuppressWarnings("serial")
 public class GUIRaportDodaj extends JDialog {

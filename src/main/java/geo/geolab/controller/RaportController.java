@@ -6,8 +6,7 @@ import java.io.FilenameFilter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.geolab.comunicat.RaportComunicat;
-
+import geo.geolab.comunicat.RaportComunicat;
 import geo.geolab.gravimetry.GravDziennik;
 import geo.geolab.gravimetry.GravInstrument;
 import geo.geolab.gravimetry.RaportABBAAB;

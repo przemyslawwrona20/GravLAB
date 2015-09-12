@@ -1,13 +1,13 @@
 package geo.geolab.gravimetry;
 
+import geo.geolab.comunicat.RaportComunicat;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
-import com.geolab.comunicat.RaportComunicat;
 
 public class GravDziennik {
 	public static final String NAZWA = "Nazwa";

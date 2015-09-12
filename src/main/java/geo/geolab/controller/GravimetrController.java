@@ -21,8 +21,8 @@ import javax.swing.JOptionPane;
 //import org.w3c.dom.NodeList;
 //import org.xml.sax.SAXException;
 
-import com.geolab.comunicat.GravComunicat;
 
+import geo.geolab.comunicat.GravComunicat;
 import geo.geolab.gui.messages.PressedGrawimetrDodajData;
 import geo.geolab.gui.messages.PressedGrawimetrInformacjeData;
 import geo.geolab.gui.messages.PressedGrawimetrUsunData;

@@ -1,6 +1,7 @@
 package geo.geolab.gravimetry;
 
 import static java.lang.Math.*;
+import geo.geolab.comunicat.RaportComunicat;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,8 +9,6 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
-import com.geolab.comunicat.RaportComunicat;
 
 public class TideCorrections {
 	private static final String TDT_UTC = "./wenzel_data_files/TDT_UTC.txt";

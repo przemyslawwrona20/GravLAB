@@ -1,4 +1,4 @@
-package com.geolab.comunicat;
+package geo.geolab.comunicat;
 
 import javax.swing.JOptionPane;
 

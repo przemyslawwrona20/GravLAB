@@ -5,14 +5,13 @@ import static java.lang.Math.cos;
 import static java.lang.Math.pow;
 import static java.lang.Math.sin;
 import static java.lang.Math.sqrt;
+import geo.geolab.comunicat.RaportComunicat;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Calendar;
 import java.util.Scanner;
 import java.util.StringTokenizer;
-
-import com.geolab.comunicat.RaportComunicat;
 
 public class TideWenzel extends Tide {
 	private static final String TDT_UTC = "./wenzel_data_files/TDT_UTC.txt";

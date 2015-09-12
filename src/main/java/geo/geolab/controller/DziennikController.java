@@ -8,8 +8,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-import com.geolab.comunicat.DziennikComunicat;
-
+import geo.geolab.comunicat.DziennikComunicat;
 import geo.geolab.gui.messages.PressedDziennikDodajTableData;
 import geo.geolab.gui.messages.PressedDziennikImportData;
 import geo.geolab.gui.messages.PressedDziennikInformacjeData;
